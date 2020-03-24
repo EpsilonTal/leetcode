@@ -1,3 +1,8 @@
+Solution posted on:
+* https://leetcode.com/problems/zigzag-conversion/discuss/549451/Java-Solution-O(n)-with-algorithm
+* https://stackoverflow.com/questions/32915810/zigzag-conversion/60823333#60823333
+
+
 The mathematic algorithm for zigzag is:
 
 * originalDiff = numRows * 2 - 2;

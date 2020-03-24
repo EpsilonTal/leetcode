@@ -6,8 +6,8 @@ Solution posted on:
 The mathematic algorithm for zigzag is:
 
 * originalDiff = numRows * 2 - 2;
-* If -> 
-	* First and last lines use the originalDiff (numRows * 2 - 2)
+* If -> 'currRow' equals First or last lines
+	* use the originalDiff (numRows * 2 - 2)
 * Else ->
 	* For each new line:
 		 * upperDiff += 2, 
